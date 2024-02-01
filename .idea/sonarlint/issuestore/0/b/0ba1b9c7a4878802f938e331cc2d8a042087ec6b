@@ -1,0 +1,47 @@
+
+|
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").( µ›äşÿÿÿÿ8ßÿº£Ö1
+w
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò¢øË8ßÿº£Ö1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "MV Boli" 4 times.(â‚†êüÿÿÿÿ8áÿº£Ö1
+“
+java:S1319ğ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(»Ì‡Šúÿÿÿÿ8âÿº£Ö1
+s
+java:S3008"QRename this field "FONT_M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‚†êüÿÿÿÿ8Ş»£Ö1
+u
+java:S3008"XRename this field "FONT_M_ITALIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å’üÕ8Ş»£Ö1
+n
+java:S3008"QRename this field "FONT_L" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îòÒ¡8Ş»£Ö1
+t
+java:S3008"RRename this field "FONT_XL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ø†Èûÿÿÿÿ8Ş»£Ö1
+l
+java:S3008"PRename this field "WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğè98Ş»£Ö1
+m
+java:S3008 "QRename this field "HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™È÷:8Ş»£Ö1
+r
+java:S3008!"PRename this field "DELAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°·Ë„üÿÿÿÿ8Ş»£Ö1
+I
+java:S1948"'Make "timer" transient or serializable.(å¡Ê˜ûÿÿÿÿ8Œ‚»£Ö1
+I
+java:S1948"'Make "snake" transient or serializable.(¬¯ß©ùÿÿÿÿ8‚»£Ö1
+J
+java:S1948"(Make "cherry" transient or serializable.(à›…Ğúÿÿÿÿ8‚»£Ö1
+D
+java:S1948"'Make "image" transient or serializable.(ğã’8‚»£Ö1
+h	java:S128R"LEnd this switch case with an unconditional break, return or throw statement.(ÇÁ›Õ8¦‚»£Ö1
+z	java:S131M"YComplete cases by adding the missing enum constants or add a default case to this switch.(¨Ş¹şÿÿÿÿ8¦‚»£Ö1
+<
+java:S2119¥"Save and re-use this "Random".(»Ã®Ÿ8µ‚»£Ö1
+A
+java:S2119¦"Save and re-use this "Random".(ô¥”üÿÿÿÿ8µ‚»£Ö1
+?	java:S131¯""Add a default case to this switch.(°Ó÷8·‚»£Ö1
+s
+java:S1201­"UEither override Object.equals(Object), or rename the method to prevent any confusion.(ÍÔà“8É‚»£Ö1
+l
+java:S3252Ê"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8Ğ‚»£Ö1
+X	java:S125Ò"<This block of commented-out lines of code should be removed.(ï­ãR8Ò‚»£Ö1
+F
+java:S3398\"$Move this method into "KeyListener".(Ğ‡£ƒıÿÿÿÿ8Ò‚»£Ö1
+>
+java:S33989"!Move this method into "GameLoop".(¸ñ®Æ8Ò‚»£Ö1

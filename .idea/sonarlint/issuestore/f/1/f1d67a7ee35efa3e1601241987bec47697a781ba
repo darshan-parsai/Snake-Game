@@ -1,0 +1,32 @@
+
+{
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").( µ›äþÿÿÿÿ8÷Ö‘›Ö1
+v
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò¢øË8øÖ‘›Ö1
+’
+java:S1319<"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(»Ì‡Šúÿÿÿÿ8úÖ‘›Ö1
+I
+java:S1948
+"'Make "snake" transient or serializable.(¬¯ß©ùÿÿÿÿ8¼×‘›Ö1
+J
+java:S1948"(Make "cherry" transient or serializable.(à›…Ðúÿÿÿÿ8¼×‘›Ö1
+D
+java:S1948"'Make "image" transient or serializable.(žðã’8¼×‘›Ö1
+L	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8À×‘›Ö1
+r
+java:S1201y"UEither override Object.equals(Object), or rename the method to prevent any confusion.(ÍÔà“8Ù×‘›Ö1
+K
+java:S1068	")Remove this unused "timer" private field.(å¡Ê˜ûÿÿÿÿ8á×‘›Ö1
+K
+java:S1068
+")Remove this unused "snake" private field.(¬¯ß©ùÿÿÿÿ8á×‘›Ö1
+L
+java:S1068"*Remove this unused "cherry" private field.(à›…Ðúÿÿÿÿ8â×‘›Ö1
+F
+java:S1068"*Remove this unused "points" private field.(þÖüC8â×‘›Ö1
+J
+java:S1068"(Remove this unused "best" private field.(ÁïÂþûÿÿÿÿ8ã×‘›Ö1
+G
+java:S1068"*Remove this unused "status" private field.(ú˜™ç8ã×‘›Ö1
+R
+java:S1068"6Remove this unused "didLoadCherryImage" private field.(—Ê†_8ã×‘›Ö1
